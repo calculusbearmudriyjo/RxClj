@@ -47,7 +47,7 @@
 
                 :compiler {:main cljs.user
                            :asset-path "js/compiled/out"
-                           :output-to "resources/public/js/compiled/sin_wave.js"
+                           :output-to "resources/public/js/app.js"
                            :output-dir "resources/public/js/compiled/out"
                            :source-map-timestamp true}}
 
